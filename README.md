@@ -14,3 +14,5 @@ This data includes percentage rates of obesity, smokers, healthcare, income, pov
 **Final Dashboard**
 The final dashboard can be seen here:
 https://jimbo275.github.io/d3-challenge/
+![image](https://user-images.githubusercontent.com/17952875/119300872-5bc6f500-bc16-11eb-9094-c0cd60bcfde1.png)
+
